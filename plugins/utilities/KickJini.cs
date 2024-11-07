@@ -20,7 +20,7 @@ public class KickJini : Plugin
 		string clientName = p.Session.ClientName();
 		if (!clientName.CaselessContains("jini")) return;
 		
-		p.Leave("Do not use hack clients.", true);
+		p.Leave("Play fairly. Do not use hacked clients. Jini is included.", true);
 		p.cancelconnecting = true;
 	}
 }
