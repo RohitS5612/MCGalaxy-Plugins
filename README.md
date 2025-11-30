@@ -72,6 +72,7 @@ These plugins are designed to show how to achieve behaviour for your own plugins
 | **Example.cs** | Example plugin using C# *(the norm)*.
 | **Example.vb** | Example plugin using Visual Basic.
 | **ExampleStoreItem** | Example plugin showing how to add items to /store.
+| **InventoryExample** | Example plugin showing how to use databases to store inventories.
 | **GamemodeTemplate** | Template plugin showing how to make your own gamemodes.
 | **physicsexample** | Example plugin showing how to add custom block physics. Makes block 103 fall up (instantly on physics 1, gradually on higher levels).
 | **playerclickexample** | Example plugin showing how to detect player clicks.
